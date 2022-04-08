@@ -1,7 +1,8 @@
-
-# food-ecommerce
+# food-ecommerce-theme
 a website to sell food products online  
 
+* desktop friendly
+* tablet friendly
 * mobile friendly
 
 ## technologies used
@@ -14,7 +15,5 @@ download zip or clone repo (all required files are included)
 
 ### view the website here  
 
-https://peter-kimanzi.github.io/food-ecommerce/
-
-
+https://food-ecommerce-template.vercel.app/
 # Enjoy!
