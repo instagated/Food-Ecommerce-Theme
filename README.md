@@ -1,11 +1,11 @@
 # food-ecommerce-theme
 a website to sell food products online  
 
-* desktop friendly
-* tablet friendly
-* mobile friendly
+* Desktop friendly
+* Tablet friendly
+* Mobile friendly
 
-## technologies used
+## Technologies used
 * HTML
 * CSS
 * JQuery
@@ -15,5 +15,5 @@ download zip or clone repo (all required files are included)
 
 ### view the website here  
 
-https://food-ecommerce-template.vercel.app/
+https://food-ecommerce-template.vercel.app
 # Enjoy!
